@@ -29,14 +29,21 @@ vite:
 -requests files from server using http
 
 Commands:
+
+```
 npm create vite@latest
+```
 
 build for production: 
+
+```
 npm run build
+```
 
 (works for quickly)
-
+```
 npm run preview (to preview build)
+```
 
 
 Features: 
